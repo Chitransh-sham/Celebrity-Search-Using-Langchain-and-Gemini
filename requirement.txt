@@ -1,4 +1,6 @@
 openai
 langchain
+langchain-community
 streamlit
 langchain-google-genai
+langchain-ollama
